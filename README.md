@@ -1,16 +1,127 @@
-# React + Vite
+# 📚 Lawctopus Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive landing page inspired by the **Lawctopus Expert-Level Contract Drafting & Freelancing** course.
 
-Currently, two official plugins are available:
+This project was developed as part of the **Lawctopus Frontend Assignment** using **React.js (Vite)**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Modern Hero Section
+* Responsive Navigation Bar
+* Course Benefits Section
+* Curriculum Overview
+* Expert Mentors Section
+* Student Testimonials
+* Pricing Section
+* FAQ Accordion
+* Footer with Contact Information
+* Fully Responsive Design
+* Smooth Scroll Navigation
+* Hover Animations & Interactive UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+* React.js
+* Vite
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+│── assets/
+│   ├── images/
+│   └── icons/
+│
+│── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── Features.jsx
+│   ├── Curriculum.jsx
+│   ├── Mentors.jsx
+│   ├── Testimonials.jsx
+│   ├── Pricing.jsx
+│   ├── FAQ.jsx
+│   └── Footer.jsx
+│
+│── styles/
+│   ├── Navbar.css
+│   ├── Hero.css
+│   ├── Features.css
+│   ├── Curriculum.css
+│   ├── Mentors.css
+│   ├── Testimonials.css
+│   ├── Pricing.css
+│   ├── FAQ.css
+│   └── Footer.css
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## ⚙ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/purvaraut21/lawctopus-landing-page.git
+```
+
+Go to the project directory:
+
+```bash
+cd lawctopus-landing-page
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📸 Screenshots
+
+Add screenshots of the landing page here.
+
+---
+
+## 🎯 Assignment
+
+This project was created as a frontend assignment by recreating and improving the landing page for the Lawctopus Contract Drafting & Freelancing course.
+
+---
+
+## 👩‍💻 Author
+
+**Purva Raut**
+
+GitHub: https://github.com/purvaraut21
+
+---
+
+
